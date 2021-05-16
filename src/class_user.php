@@ -34,5 +34,21 @@ class User
     {
         return $this->email;
     }
+
+    /**
+     * Get the value of pseudo
+     */ 
+    public function getPseudo()
+    {
+        return $this->pseudo;
+    }
+
+    /**
+     * Get the value of password
+     */ 
+    public function getPassword()
+    {
+            return $this->password;
+    }
 }
 

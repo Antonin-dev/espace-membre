@@ -74,6 +74,17 @@ form{
     border-radius: 10px;
     margin-bottom: 5px;
 }
+.success{
+    background-color: green;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    display: inline-block;
+    margin: auto;
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
 
 
 button{
